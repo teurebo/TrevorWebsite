@@ -206,3 +206,13 @@ main {
         transform: translateY(0);
     }
 }
+
+.version {
+    position: fixed;
+    bottom: 10px;
+    left: 12px;
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    z-index: 9999;
+}
